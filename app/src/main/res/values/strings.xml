@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Relative Layout</string>
+    <string name="hello">hello</string>
+    <string name="name">name</string>
+    <string name="rollno">rollno</string>
+    <string name="Flights">Flights</string>
+    <string name="space_station">Space Station</string>
+    <string name="ITraveller">I Traveller</string>
+    <string name="OneWay">One Way</string>
+    <string name="Rovers">Rovers</string>
+</resources>
